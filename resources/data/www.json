@@ -1,0 +1,26 @@
+{
+  "ROOT":
+  {
+    "AAA":
+    {
+      "AAAAAA":{
+        "AAAAAAAAA":{
+          "AAAAAAAAAAAA":"",
+          "AAAAAAAAABBB":"",
+          "AAAAAAAAACCC":""
+        },
+        "AAAAAABBB":"",
+        "AAAAAACCC":""
+      },
+      "AAABBB":"",
+      "AAACCC":""
+    },
+    "BBB":
+    {
+      "BBBAAA":"",
+      "BBBBBB":"",
+      "BBBCCC":""
+    },
+    "CCC":""
+  }
+}
